@@ -52,3 +52,14 @@ This is the final result of today :
 Tomorrow ill add the corner brackets that support the gantry (the devils in the details ! and in my damn touchpad it keeps tweaking) and hopefully the movement system for either printhead or print bed - but i have a lot of personal stuff do do ill see if i can find time.
 
 To whoevers reading this, goodbye !
+
+## June 31 : Frame revision (~ 2 Hours)
+
+Alright, i did a bit more revision on my Frame. I decided i would change the dimensions a bit and make it 500mm x 370 mm, and then had to redesign everything which took wayyyyy too long.
+I also did a bit of visual tuning so it looks good, and decided im going for an all-black theme, so i changed my model for the 2020 extrusions to a black one that looks a bit better - ill probably use spray paint for coloring the extrusions black as idk if you can get them like that online.
+
+After that i also adjusted the feet, made them match the theme, and added the corner brackets that actually hold the gantry extrusions up (for polish)
+
+![](assets/img/FrameV3.png)
+
+Next ill work on adding the Z axis motion - that will be done tomorrow !
